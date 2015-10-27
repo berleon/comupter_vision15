@@ -32,3 +32,6 @@
 
 # gimp
 *.xcf
+
+# nbconvert temporary files
+*_files/
